@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Radar</string>
+    <string name="todos">Todos</string>
+    <string name="escola">Escola</string>
+    <string name="avisos">Avisos</string>
+    <string name="biz">Biz</string>
+    <string name="confira">Confira</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="publication_image">Publication Image</string>
+    <string name="networking">networking</string>
+</resources>
