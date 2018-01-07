@@ -37,10 +37,11 @@
 
        <TextView
            android:id="@+id/textView_row_biz_text"
-           android:layout_width="wrap_content"
+           android:layout_width="0dp"
            android:layout_height="wrap_content"
            app:layout_constraintLeft_toRightOf="@+id/textView_row_biz_topic"
            app:layout_constraintTop_toBottomOf="@+id/textView_row_biz_title"
+           app:layout_constraintRight_toRightOf="parent"
            android:layout_margin="10dp" />
 
        <View
